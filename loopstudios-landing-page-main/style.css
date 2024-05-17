@@ -314,7 +314,7 @@ h1 {
     }
     .header {
         background: url(/images/mobile/image-hero.jpg) no-repeat ;
-        width: 80%;
+        width: 100%;
     }
     .logo {
         z-index: 100;
@@ -353,7 +353,7 @@ h1 {
     }
     .header h1 {
         font-size: 2rem;
-        width: 70%;
+        width: 90%;
         justify-self: center;
     }
 
